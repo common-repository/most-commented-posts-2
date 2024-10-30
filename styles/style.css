@@ -1,0 +1,6 @@
+ul#most_commented_posts{
+	list-style:none;	
+}
+ul#most_commented_posts li{
+	display:inline;	
+}
